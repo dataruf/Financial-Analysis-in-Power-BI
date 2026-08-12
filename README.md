@@ -2,7 +2,7 @@
 
 ## Layihə haqqında
 
-Bu layihədə satış, mənfəət, məhsul, ölkə və müştəri seqmentləri üzrə biznes göstəricilərini analiz etmək üçün Power BI dashboardu hazırlanıb.
+Bu layihədə satış, mənfəət, məhsul, ölkə və müştəri seqmentləri üzrə biznes göstəricilərini analiz etmək üçün Power BI dashboardu hazırlaçışam.
 
 Məqsəd satış və mənfəətin zaman, ölkə, məhsul və seqmentlər üzrə necə dəyişdiyini analiz etmək və biznes üçün diqqət tələb edən sahələri müəyyən etməkdir.
 
@@ -56,6 +56,3 @@ Seqmentlər arasında ciddi fərqlər müşahidə olunur. **Channel Partners** 7
 - Data Modeling
 - Data Visualization
 
-## Layihənin məqsədi
-
-Bu layihə real biznes ssenarisinə uyğun olaraq məlumatların hazırlanması, modelləşdirilməsi, DAX ilə KPI-ların hesablanması və nəticələrin interaktiv dashboard vasitəsilə təqdim edilməsi bacarıqlarını nümayiş etdirir.
