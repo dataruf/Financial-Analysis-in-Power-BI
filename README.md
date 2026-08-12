@@ -27,7 +27,7 @@ Birinci səhifədə ümumi satış və mənfəət göstəricilərinə fokuslanı
 - Seqmentlər üzrə mənfəət marjası
 - Ölkə və seqment filterləri
 
-![Dashboard Page 1](Finance analysis 1.png)
+![Dashboard Page 1](Finance_analysis1.png)
 
 ### Səhifə 2 — Məhsul və mənfəət analizi
 
