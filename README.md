@@ -38,7 +38,7 @@ Birinci səhifədə ümumi satış və mənfəət göstəricilərinə fokuslanı
 - Ölkələr üzrə mənfəət və mənfəət marjası
 - Seqmentlər üzrə ətraflı performans cədvəli
 
-![Dashboard Page 2](main/Finance analysis 2.png)
+![Dashboard Page 1](Finance analysis 1.png)
 
 ## Əsas nəticələr
 
