@@ -1,4 +1,4 @@
-# Power BI — Satış və Maliyyə Analizi
+# Power BI - Satış və Maliyyə Analizi
 
 ## Layihə haqqında
 
